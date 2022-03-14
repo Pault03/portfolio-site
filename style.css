@@ -1,0 +1,33 @@
+.flashin{
+    color: black;
+    background-color: lightblue;
+    text-align: center;
+    padding: 20px;
+}
+.Myname{
+
+    background-color: aliceblue;
+    font-style: italic;
+    font-size: larger;
+    float: left;
+}
+.Maya{
+    overflow: hidden;
+    background-color: rgb(221, 237, 250);
+    font-style: italic;
+    text-align: center;
+    padding: 20px;
+
+}
+
+.Icons{
+    height: 40px;
+    width: 40px;
+    background-color:rgb(223, 180, 180);
+
+}
+.Thewoo{
+    text-align: center;
+    margin-left: 50px;
+}
+
